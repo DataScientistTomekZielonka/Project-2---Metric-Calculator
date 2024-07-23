@@ -1,0 +1,9 @@
+{
+    "filters": {
+        "Voivodship": "Ma\u0142opolskie",
+        "Industry": "Manufacturing",
+        "Job Type": "Forklift operators, internal logistics operators, etc.",
+        "Fill_Rate_lower_bound": 0.5,
+        "Fill_Rate_upper_bound": 1.0
+    }
+}

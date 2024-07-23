@@ -1,0 +1,21 @@
+{
+    "job_order": {
+        "Voivodship": "Ma\u0142opolskie",
+        "Industry": "Manufacturing",
+        "Job Type": "Forklift operators, internal logistics operators, etc.",
+        "Salary": 8000,
+        "Bonus": 2000,
+        "Benefits": {
+            "paid_meals": 1,
+            "sport_card": 1,
+            "medical_care": 0
+        },
+        "Contract Length": 24,
+        "Contract Type": "Contract of employment",
+        "Brand Recognition": "Moderate",
+        "Recruitment Difficulty": "Normal",
+        "Shifts": "Three 8hrs shifts",
+        "Overtime": "Ocassional overtime",
+        "Employee Satisfaction": "Moderate"
+    }
+}
